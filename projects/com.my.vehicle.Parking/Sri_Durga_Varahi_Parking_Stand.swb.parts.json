@@ -1,0 +1,15 @@
+{
+  "kind": "sketchware-ai-swb-parts",
+  "format": 1,
+  "name": "Sri_Durga_Varahi_Parking_Stand.swb",
+  "size": 2631876,
+  "sha256": "9f2a990bf2cbfa720428a832a3fc1eed45b9dc37addc6b4eabb6866748adb7d9",
+  "partBytes": 4194304,
+  "parts": [
+    {
+      "path": "projects/com.my.vehicle.Parking/Sri_Durga_Varahi_Parking_Stand.swb",
+      "size": 2631876,
+      "sha": "2771b0b4beda37435e298efb0d3649f6a1148882"
+    }
+  ]
+}

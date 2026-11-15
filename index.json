@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "app": "Sketchware AI",
+  "projects": [
+    {
+      "path": "projects/com.my.vehicle.Parking/Sri_Durga_Varahi_Parking_Stand.swb",
+      "name": "Sri_Durga_Varahi_Parking_Stand",
+      "package": "com.my.vehicle.Parking",
+      "versionName": "4.7.6",
+      "time": 1794741170978,
+      "size": 2631876,
+      "parts": "projects/com.my.vehicle.Parking/Sri_Durga_Varahi_Parking_Stand.swb.parts.json"
+    }
+  ]
+}
